@@ -1,0 +1,17 @@
+CodeAlpha Frontend Development Internship
+
+This repository contains all tasks completed during the CodeAlpha Frontend Development Internship.
+
+Completed Projects
+- Image Gallery
+- Calculator
+- Portfolio Website
+- Music Player
+
+Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+Author
+Nischay Pant
