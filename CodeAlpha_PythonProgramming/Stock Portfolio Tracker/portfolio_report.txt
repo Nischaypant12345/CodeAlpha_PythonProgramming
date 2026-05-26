@@ -1,0 +1,5 @@
+Total Portfolio Value = $309200
+AAPL: 20 shares = $3600
+TSLA: 50 shares = $12500
+GOOGL: 345 shares = $48300
+MSFT: 765 shares = $244800
